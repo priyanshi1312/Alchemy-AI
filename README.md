@@ -100,7 +100,7 @@ src
 
 ## Screenshots
 
-<img width="1600" height="795" alt="WhatsApp Image 2026-07-28 at 11 17 40 AM" src="https://github.com/user-attachments/assets/5336c226-d0b3-4843-82ba-3bb9a2d11c30" />
+<img width="1600" height="795" alt="WhatsApp Image 2026-07-28 at 11 17 40 AM" src="https://github.com/user-attachments/assets/432e1486-8805-4c82-9139-f63928b2daf3" />
 
 
 
